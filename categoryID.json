@@ -1,0 +1,22 @@
+{
+  "woman": {
+    "double": 61,
+    "bamboo": 67,
+    "velour": 74,
+    "silk": 75,
+    "wafers": 73,
+    "light_double": 66,
+    "summer": 68,
+    "big": 65
+  },
+  "men": {
+    "double": 71,
+    "light": 72,
+    "bamboo": 77,
+    "velour": 79,
+    "wafers": 80,
+    "silk": 81,
+    "sport": 78,
+    "big": 76
+  }
+}

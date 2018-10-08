@@ -1,0 +1,22 @@
+{
+  "woman": {
+    "double": "https://evateks.ru/store.aspx?sec_id=4&show=all",
+    "bamboo": "https://evateks.ru/store.aspx?sec_id=75&show=all",
+    "velour": "https://evateks.ru/store.aspx?sec_id=11&show=all",
+    "silk": "https://evateks.ru/store.aspx?sec_id=10&show=all",
+    "wafers": "https://evateks.ru/store.aspx?sec_id=67&show=all",
+    "light_double": "https://evateks.ru/store.aspx?sec_id=12&show=all",
+    "summer": "https://evateks.ru/store.aspx?sec_id=5&show=all",
+    "big":"https://evateks.ru/store.aspx?sec_id=17&show=all"
+  },
+  "men": {
+    "double": "https://evateks.ru/store.aspx?sec_id=2&show=all",
+    "light": "https://evateks.ru/store.aspx?sec_id=8&show=all",
+    "bamboo": "https://evateks.ru/store.aspx?sec_id=62&show=all",
+    "velour": "https://evateks.ru/store.aspx?sec_id=149&show=all",
+    "wafers": "https://evateks.ru/store.aspx?sec_id=68&show=all",
+    "silk": "https://evateks.ru/store.aspx?sec_id=6&show=all",
+    "sport": "https://evateks.ru/store.aspx?sec_id=9&show=all",
+    "big": "https://evateks.ru/store.aspx?sec_id=96&show=all"
+  }
+}
